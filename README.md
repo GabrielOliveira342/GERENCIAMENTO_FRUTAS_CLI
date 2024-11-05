@@ -39,9 +39,9 @@ Ferramentas utilizadas e bibliotecas
 
 * **Gabriel Alberto de Oliveira** - *Trabalho Inicial* - GERENCIAMENTO FRUTAS CLI
 
-
-* ![Captura de tela 2024-11-05 200534](https://github.com/user-attachments/assets/6e97b06b-f44a-45cd-84d1-ad333c0abd4e)
 * ![Captura de tela 2024-11-05 200418](https://github.com/user-attachments/assets/a036aa0a-4baf-4f74-84dc-7c53911a4054)
+* ![Captura de tela 2024-11-05 200534](https://github.com/user-attachments/assets/5c71234a-75fe-428b-b209-1b7296ae83ca)
+
 
 
 
